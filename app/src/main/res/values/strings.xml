@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">mitema2onlinefragmento</string>
+    <string name="ejemplo1">Ejemplo1</string>
+    <string name="ejemplo2">Ejemplo2</string>
+    <string name="fragmento">Fragmento</string>
+    <string name="textview">TextView</string>
+    <string name="se_or_x">Señor X</string>
+    <string name="informaci_n_importante">Información importante</string>
 </resources>
